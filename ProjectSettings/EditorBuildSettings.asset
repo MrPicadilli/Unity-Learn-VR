@@ -9,11 +9,11 @@ EditorBuildSettings:
     path: Assets/Room_Tuto/Scenes/Florent Room.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ed72be55522c8448bae8b0d66fa21adf,
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f0f089d9b1f5fb14f979f1d70c57415a,
       type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ad4050bc0deda4e238354e959df0f1f4,
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1aca67d7e8a763b47a4a4f6cbe204d3e,
       type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b53b89ca9241447b0a56ff61fa931615,
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 804e9e1b6056c0942913417862d52a6e,
       type: 2}
-    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: f4f50c8f8f3454c90a388877cf1a2c81,
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 3a5a936e608220940951072ab153d581,
       type: 2}
